@@ -1,0 +1,111 @@
+   /* CSS for styling the navigation bar */
+   nav ul {
+       list-style-type: none;
+       margin: 0;
+       padding: 0;
+       overflow: hidden;
+       background-color: #333;
+       /* Background color for the navigation bar */
+   }
+
+   nav a {
+       display: block;
+       min-block-size: 0%;
+   }
+
+   li {
+       float: left;
+   }
+
+   li a {
+       display: block;
+       color: white;
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;
+   }
+
+
+   /* Change the color of links when hovered */
+   li a:hover {
+       background-color: #111;
+   }
+
+   .nav-left {
+       float: left;
+   }
+
+   .nav-left ul li {
+       float: left;
+   }
+
+   .nav-right ul li {
+       float: right;
+   }
+
+   body {
+       font-family: Arial, sans-serif;
+       background-color: #f0f0f0;
+   }
+
+   .login-container {
+       width: 300px;
+       margin: 100px auto;
+       padding: 20px;
+       background-color: #fff;
+       border-radius: 5px;
+       box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+   }
+
+   .signup-container {
+       width: 300px;
+       margin: 100px auto;
+       padding: 20px;
+       background-color: #fff;
+       border-radius: 5px;
+       box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+   }
+
+   h2 {
+       text-align: center;
+   }
+
+   input[type="text"],
+   input[type="email"],
+   input[type="password"] {
+       width: calc(100% - 20px);
+       padding: 10px;
+       margin: 10px 0;
+       border: 1px solid #ccc;
+       border-radius: 3px;
+   }
+
+   input[type="submit"] {
+       width: 100%;
+       padding: 10px;
+       margin-top: 10px;
+       background-color: #4CAF50;
+       color: white;
+       border: none;
+       border-radius: 3px;
+       cursor: pointer;
+   }
+
+   input[type="submit"]:hover {
+       background-color: #45a049;
+   }
+
+   .content {
+       display: none;
+   }
+
+   .content.active {
+       display: block;
+   }
+
+   .footer {
+       position: fixed;
+       left: 0;
+       bottom: 0;
+       width: 100%;
+   }

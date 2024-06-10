@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Programming\\Playing around with C#\\C# Class\\capstone_website\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Programming\\Playing around with C#\\C# Class\\capstone_website\\wwwroot\\images\\Arkansas-cleanmap.jpg",
+      "PackagePath": "staticwebassets\\images\\Arkansas-cleanmap.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\Playing around with C#\\C# Class\\capstone_website\\wwwroot\\index.css",
+      "PackagePath": "staticwebassets\\index.css"
+    },
+    {
+      "Id": "D:\\Programming\\Playing around with C#\\C# Class\\capstone_website\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Programming\\Playing around with C#\\C# Class\\capstone_website\\wwwroot\\index.js",
+      "PackagePath": "staticwebassets\\index.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.capstone_website.props",
+      "PackagePath": "build\\capstone_website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.capstone_website.props",
+      "PackagePath": "buildMultiTargeting\\capstone_website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.capstone_website.props",
+      "PackagePath": "buildTransitive\\capstone_website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.capstone_website.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
